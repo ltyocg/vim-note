@@ -6,6 +6,7 @@ set number
 set relativenumber
 " 高亮光标所在行
 set cursorline
+hi CursorLine ctermbg=DarkGray
 " 将Tab转为空格
 set expandtab
 " Tab缩进空格数
