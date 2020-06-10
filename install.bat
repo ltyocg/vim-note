@@ -1,0 +1,1 @@
+copy init.vim %UserProfile%\AppData\Local\nvim
