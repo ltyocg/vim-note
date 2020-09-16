@@ -1,3 +1,5 @@
+" 设置菜单语言
+set langmenu=zh_CN.UTF-8
 " 根据编辑的文件自动切换工作目录
 set autochdir
 " 显示行号
